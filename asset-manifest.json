@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cron-parser/static/css/main.ed4f55e7.css",
+    "main.js": "/cron-parser/static/js/main.8787cc8a.js",
+    "index.html": "/cron-parser/index.html",
+    "main.ed4f55e7.css.map": "/cron-parser/static/css/main.ed4f55e7.css.map",
+    "main.8787cc8a.js.map": "/cron-parser/static/js/main.8787cc8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed4f55e7.css",
+    "static/js/main.8787cc8a.js"
+  ]
+}
